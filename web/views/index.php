@@ -3,9 +3,13 @@
   <head>
     <meta charset="utf-8">
     <link rel="icon" href="../img/favicon.png" sizes="16x16" type="image/png">
-    <title>Digistorm</title>
+    <title>Digistorm Gallery</title>
   </head>
   <body>
-Hello World
+
+    <?php
+      echo "Hello World";
+     ?>
+
   </body>
 </html>
